@@ -7,6 +7,6 @@ public class Test3 {
 		System.out.println("ok2");
 		System.out.println("ok3");
 		System.out.println("ok4");
-		System.out.println("ok6");
+		System.out.println("ok5");
 	}
 }
