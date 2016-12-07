@@ -12,6 +12,5 @@ public class Test {
 		System.out.println("git m7");
 		System.out.println("git m9");
 		System.out.println("git m10");
-		System.out.println("git m3");
 	}
 }
