@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("git m3");
 		System.out.println("git m4");
 		System.out.println("git m5");
+		System.out.println("git m6");
 	}
 }
